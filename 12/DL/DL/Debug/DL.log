@@ -1,0 +1,7 @@
+﻿  DL.cpp
+F:\5 семестр\ОСиСПр\12\DL\DL\DL.cpp(16,41): error C2375: WriteFile: переопределение; другая компоновка
+F:\5 семестр\ОСиСПр\12\DL\DL\DLL.h(7): message : см. объявление "WriteFile"
+F:\5 семестр\ОСиСПр\12\DL\DL\DL.cpp(34,41): error C2375: StartProcess: переопределение; другая компоновка
+F:\5 семестр\ОСиСПр\12\DL\DL\DLL.h(8): message : см. объявление "StartProcess"
+F:\5 семестр\ОСиСПр\12\DL\DL\DL.cpp(44,41): error C2375: CheckFile: переопределение; другая компоновка
+F:\5 семестр\ОСиСПр\12\DL\DL\DLL.h(9): message : см. объявление "CheckFile"

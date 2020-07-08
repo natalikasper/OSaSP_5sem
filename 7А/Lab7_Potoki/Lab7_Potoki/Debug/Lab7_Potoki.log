@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Lab7_Potoki.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\БГТУ\3 курс\5 семестр\ОСиСПр\7А\Lab7_Potoki\Debug\Lab7_Potoki.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
